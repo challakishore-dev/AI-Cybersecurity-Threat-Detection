@@ -73,3 +73,27 @@ python -m streamlit run app.py
 Model Accuracy: ~100% (synthetic dataset)
 Evaluation Metrics: Precision, Recall, F1-score
 Confusion Matrix generated
+
+🖥️ Project Demo
+Dashboard
+
+Normal Prediction
+
+Threat Detection
+
+Confusion Matrix
+
+📌 Future Improvements
+Use real datasets (CICIDS, NSL-KDD)
+Add attack type classification
+Deploy on cloud (AWS / GCP)
+Real-time network traffic monitoring
+🎯 Learning Outcomes
+Machine Learning pipeline development
+Data preprocessing & feature engineering
+Model evaluation techniques
+Building interactive dashboards with Streamlit
+
+👨‍💻 Author
+Challa Kishore
+
