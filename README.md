@@ -77,11 +77,17 @@ Confusion Matrix generated
 🖥️ Project Demo
 Dashboard
 
-Normal Prediction
+<img width="640" height="480" alt="Figure_p3-1" src="https://github.com/user-attachments/assets/12c0c4ad-eb5d-439e-bf98-569c2bb9dbae" />
 
-Threat Detection
+## Normal Prediction
 
-Confusion Matrix
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/b3bf2c22-bcc4-40f7-a561-c420ca79beb4" />
+
+## Threat Detection
+
+<img width="640" height="480" alt="confusion_matrix" src="https://github.com/user-attachments/assets/9a76bf88-0165-422f-8c25-fca565d632fb" />
+
+## Confusion Matrix
 
 📌 Future Improvements
 Use real datasets (CICIDS, NSL-KDD)
